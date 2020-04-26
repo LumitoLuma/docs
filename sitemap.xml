@@ -4,11 +4,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
-  <loc>https://lumitosoftware.boards.net/</loc>
+  <loc>https://lumitoluma.github.io/</loc>
+  <lastmod>2020-04-23T15:25:47+00:00</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://lumitoluma.github.io/forums.html</loc>
   <lastmod>2020-04-23T15:25:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
