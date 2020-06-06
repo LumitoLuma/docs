@@ -3,4 +3,4 @@ Lumito's official GitHub website
 
 Lumito's GitHub website.
 
-### Currently under construction...
+### Website is partially moved to [gh-pages.lumito.net](https://gh-pages.lumito.net)
