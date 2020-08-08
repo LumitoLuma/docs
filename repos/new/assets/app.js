@@ -1,4 +1,4 @@
-var owner = 'ozh';
+var owner = 'LumitoLuma';
 var start_angle = 0;
 	
 $(document).ready(function($) {
