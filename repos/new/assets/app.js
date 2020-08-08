@@ -42,8 +42,11 @@ function get_repos(){
 			
 		});
 		
-		$('#gravatar_img').attr( 'src', 'https://secure.gravatar.com/avatar/'+repos[0].owner.gravatar_id+'?s=512' ).show();
-		
+	    	if (owner === "LumitoLuma") {
+			$('#gravatar_img').attr( 'src', 'https://secure.gravatar.com/avatar/32615e5bf9ae513207f31d7a4a55fd36?s=512' ).show();
+		} else {	
+			$('#gravatar_img').attr( 'src', 'https://secure.gravatar.com/avatar/'+repos[0].owner.gravatar_id+'?s=512' ).show();
+		}
 		place_divs(  );
 
 	});
