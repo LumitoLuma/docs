@@ -12,6 +12,8 @@ theme:
   highlightjs: true
   hljs_languages:
       - c
+  logo: icons/luma.png
+  favicon: icons/luma.png
 
 extra:
   social:
