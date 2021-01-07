@@ -14,8 +14,9 @@ theme:
       - c
 
 extra:
-  copyright: Copyright &copy; 2021, Lumito
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/LumitoLuma
       name: LumitoLuma on GitHub
+
+copyright: Copyright &copy; 2021, Lumito
