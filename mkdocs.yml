@@ -11,9 +11,10 @@ theme:
   name: 'material'
   highlightjs: true
   hljs_languages:
-      - c
-  logo: icons/luma.png
-  favicon: icons/luma.png
+    - c
+  icon:
+    logo: material/code-tags
+  favicon: icons/favicon.png
 
 extra:
   social:
