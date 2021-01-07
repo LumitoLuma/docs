@@ -12,6 +12,10 @@ theme:
   icon:
     logo: material/code-tags
   favicon: icons/favicon.png
+  palette:
+    scheme: slate
+    primary: green
+    accent: teal
 
 markdown_extensions:
   - pymdownx.highlight
