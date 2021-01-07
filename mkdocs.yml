@@ -1,5 +1,5 @@
 site_name: Lumito's documentation
-site_description: "Lumito's documentation"
+site_description: "(WIP) Lumito's programs and services documentation"
 site_author: 'Lumito'
 docs_dir: docs
 repo_url: 'https://github.com/LumitoLuma/docs'
@@ -9,12 +9,17 @@ nav:
 
 theme:
   name: 'material'
-  highlightjs: true
-  hljs_languages:
-    - c
   icon:
     logo: material/code-tags
   favicon: icons/favicon.png
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippet
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      :emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   social:
