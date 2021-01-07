@@ -16,10 +16,9 @@ theme:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.snippet
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
-      :emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   social:
