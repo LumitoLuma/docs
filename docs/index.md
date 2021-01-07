@@ -1,3 +1,5 @@
 # Lumito's documentation
 
-**Documentation coming soon...**
+### Welcome to my new documentation service!
+
+**Docs coming soon...**
