@@ -1,0 +1,21 @@
+site_name: Lumito's documentation
+site_description: "Lumito's documentation"
+site_author: 'Lumito'
+docs_dir: docs
+repo_url: 'https://github.com/LumitoLuma/docs'
+
+nav:
+    - Home: index.md
+
+theme:
+  name: 'material'
+  highlightjs: true
+  hljs_languages:
+      - c
+
+extra:
+  copyright: Copyright &copy; 2021, Lumito
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/LumitoLuma
+      name: LumitoLuma on GitHub
