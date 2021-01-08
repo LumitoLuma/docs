@@ -16,6 +16,9 @@ theme:
     scheme: slate
     primary: green
     accent: teal
+  features:
+    - navigation.instant
+    - navigation.tabs
 
 markdown_extensions:
   - pymdownx.highlight
