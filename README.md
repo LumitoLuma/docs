@@ -1,6 +1,7 @@
 # Lumito's docs
-
-![Publish docs via GitHub Pages](https://github.com/LumitoLuma/docs/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
+| Build status |
+|:-:|
+| ![Publish docs via GitHub Pages](https://github.com/LumitoLuma/docs/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)|
 
 ### Welcome to my documentation repository!
 
