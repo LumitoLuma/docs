@@ -30,8 +30,8 @@ Come back in a few days to see more documents.
 
 EQDiet's docs are released apart from this. They are available in the following site:
 
-https://docs.eqdiet.lumito.net
+[https://docs.eqdiet.lumito.net](https://docs.eqdiet.lumito.net)
 
-Also, this aren't open source :cry:, since they are built on a proprietary platform: https://www.gitbook.com.
+Also, this aren't open source :cry:, since they are built on a proprietary platform: [https://www.gitbook.com](https://www.gitbook.com).
 
 **More documentation coming soon...**
