@@ -5,7 +5,8 @@ docs_dir: docs
 repo_url: 'https://github.com/LumitoLuma/docs'
 
 nav:
-    - About: index.md
+    - Home:
+      - About: index.md
 
 theme:
   name: 'material'
@@ -19,6 +20,11 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - pymdownx.highlight
