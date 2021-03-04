@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Publish docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@1.16
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: docs.lumito.net
