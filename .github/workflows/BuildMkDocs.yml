@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Install plugins
+        run: |
+          pip install mkdocs-git-revision-date-localized-plugin
 
       - name: Publish docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
