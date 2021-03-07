@@ -7,6 +7,8 @@ repo_url: 'https://github.com/LumitoLuma/docs'
 nav:
     - Home:
       - About: index.md
+    - Repos:
+      - OpenSSH for Windows: repos/OpenSSH-for-Windows.md 
 
 theme:
   name: 'material'
