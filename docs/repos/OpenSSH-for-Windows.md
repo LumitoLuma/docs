@@ -16,7 +16,8 @@ You can download the latest version of OpenSSH for Windows by clicking on the bu
 
 | OpenSSH for Windows x64 | OpenSSH for Windows x86 |
 |:-:|:-:|
-| [![Download x64](https://img.shields.io/badge/Download-x64-green.svg)](https://dl.lumito.net/public/repos/OpenSSH-for-Windows/8.2p1/OpenSSH-for-Windows-8.2p1-x64.exe) | [![Download x86](https://img.shields.io/badge/Download-x86-green.svg)](https://dl.lumito.net/public/repos/OpenSSH-for-Windows/8.2p1/OpenSSH-for-Windows-8.2p1-x86.exe) |
+| [![Download x64](https://img.shields.io/badge/Download-x64-blue.svg)](https://dl.lumito.net/public/repos/OpenSSH-for-Windows/8.2p1/OpenSSH-for-Windows-8.2p1-x64.exe) | [![Download x86](https://img.shields.io/badge/Download-x86-green.svg)](https://dl.lumito.net/public/repos/OpenSSH-for-Windows/8.2p1/OpenSSH-for-Windows-8.2p1-x86.exe) |
+| [![Mirror x64](https://img.shields.io/badge/Mirror-x64-blue.svg)](https://github.com/LumitoLuma/OpenSSH-for-Windows/releases/download/8.2p1/OpenSSH-for-Windows-8.2p1-x64.exe) | [![Mirror x86](https://img.shields.io/badge/Mirror-x86-green.svg)](https://github.com/LumitoLuma/OpenSSH-for-Windows/releases/download/8.2p1/OpenSSH-for-Windows-8.2p1-x86.exe) |
 
 All OpenSSH for Windows downloads are available through [this link](https://github.com/LumitoLuma/OpenSSH-for-Windows/releases).
 
