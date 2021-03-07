@@ -1,0 +1,2 @@
+# MkDocs plugins/extensions
+mkdocs-git-revision-date-localized-plugin
