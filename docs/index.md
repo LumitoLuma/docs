@@ -1,4 +1,4 @@
-# About
+# Home
 
 ### Welcome to my new documentation service!
 

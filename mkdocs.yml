@@ -5,8 +5,7 @@ docs_dir: docs
 repo_url: 'https://github.com/LumitoLuma/docs'
 
 nav:
-    - Home:
-      - About: index.md
+    - Home: index.md
     - Repos:
       - OpenSSH for Windows: repos/OpenSSH-for-Windows.md 
 
