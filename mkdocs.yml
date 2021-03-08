@@ -1,8 +1,9 @@
 site_name: Lumito's documentation
-site_description: "(WIP) Lumito's programs and services documentation"
-site_author: 'Lumito'
+site_description: (WIP) Lumito's programs and services documentation
+site_author: Lumito
+site_url: https://docs.lumito.net
 docs_dir: docs
-repo_url: 'https://github.com/LumitoLuma/docs'
+repo_url: https://github.com/LumitoLuma/docs
 
 nav:
     - Home: index.md
@@ -11,7 +12,7 @@ nav:
       - Program Overflow: repos/ProgramOverflow.md
 
 theme:
-  name: 'material'
+  name: material
   icon:
     logo: material/code-tags
   favicon: icons/favicon.png
@@ -39,8 +40,14 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/solid/globe
+      link: https://www.lumito.net
+      name: LumitoLuma's website
     - icon: fontawesome/brands/github
       link: https://github.com/LumitoLuma
       name: LumitoLuma on GitHub
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/13248902/lumito
+      name: LumitoLuma on StackOverflow
 
 copyright: Copyright &copy; 2021, <a href="https://www.lumito.net" target="_blank">Lumito</a>
