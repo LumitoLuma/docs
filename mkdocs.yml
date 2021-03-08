@@ -1,7 +1,6 @@
 site_name: Lumito's documentation
 site_description: (WIP) Lumito's programs and services documentation
 site_author: Lumito
-site_url: https://docs.lumito.net
 docs_dir: docs
 repo_url: https://github.com/LumitoLuma/docs
 
