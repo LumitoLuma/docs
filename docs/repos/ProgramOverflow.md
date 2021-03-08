@@ -27,21 +27,18 @@ You can download compiled source code through my downloads server: [dl.lumito.ne
 
 ## FAQ
 
-<details>
-  <summary><b>Is Program Overflow good for my computer?</b></summary>
+??? question "Is Program Overflow good for my computer?"
 
-  Well... I would not enable the dangerous features on a real computer, but if you do not enable them, I think the program is safe. However, I am not responsible of any damage this tool can make to your computer.
-</details>
-<details>
-  <summary><b>I have seen that the image of this text document has features that the program I download through releases does not have. How can I get them?</b></summary>
+    Well... I would **not** enable the dangerous features on a **real computer**, but if you do not enable them, I think the program is safe. However, I am not responsible of any damage this tool can make to your computer.
 
-  Currently are under development. You can always download the "latest latest" version of Program Overflow through my downloads website.
-</details>
-<details>
-  <summary><b>How can I try this program safely?</b></summary>
+??? question "I have seen that the image of this document has features that the program I've downloaded through GitHub releases does not have. How can I get them?"
 
-  You can try it safely using a virtual machine. A good one (free) VirtualBox, but the best (paid) is VMware Workstation Pro.
-</details>
+    Currently are **under development**. You can always download the "latest latest" version of Program Overflow **through my downloads website**.
+
+??? question "How can I try this program safely?"
+
+    You can try it safely using a **virtual machine**. A good one (free) is [VirtualBox](https://www.virtualbox.org), but the best (paid) is [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html).
+
 
 ## Badges
 
