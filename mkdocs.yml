@@ -15,7 +15,7 @@ theme:
   name: material
   icon:
     logo: material/code-tags
-  favicon: icons/favicon.png
+  favicon: assets/images/favicon.png
   palette:
     scheme: slate
     primary: green

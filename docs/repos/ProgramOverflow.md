@@ -2,7 +2,7 @@
 Program Overflow is an utility that makes lots of copies of it to later run them. Caution: it's DANGEROUS!!! Please use it in a VM.
 I'm not responsible of any damage this tool can make to your computer. Use it at your own risk.
 
-![Program Overflow image](../icons/ProgramOverflow2.1.png)
+![Program Overflow image](/assets/images/ProgramOverflow2.1.png)
 
 ## Uses of this tool
 1.  Test your VM speed and durability.
