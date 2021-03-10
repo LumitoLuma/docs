@@ -1,4 +1,4 @@
-# Repos
+# About Lumito's repos
 
 In this section, you'll see the documentation for my projects. Most of them are available on my GitHub account ([github.com/LumitoLuma](https://github.com/LumitoLuma)).
 
