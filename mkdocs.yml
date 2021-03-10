@@ -6,7 +6,7 @@ repo_url: https://github.com/LumitoLuma/docs
 
 nav:
     - Home: index.md
-    - Repos:
+    - Repos: repos/index.md
       - OpenSSH for Windows: repos/OpenSSH-for-Windows.md
       - Program Overflow: repos/ProgramOverflow.md
 

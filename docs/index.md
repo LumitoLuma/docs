@@ -26,12 +26,10 @@ Because it's a very new one, so it is currently under construction.
 
 Come back in a few days to see more documents.
 
-### Where can I found EQDiet's docs?
+### Where can I find EQDiet's documentation?
 
-EQDiet's docs are released apart from this. They are available in the following site:
+EQDiet's docs are released apart from these. They are available in the following site:
 
 [https://docs.eqdiet.lumito.net](https://docs.eqdiet.lumito.net)
 
 Also, this aren't open source :cry:, since they are built on a proprietary platform: [https://www.gitbook.com](https://www.gitbook.com).
-
-**More documentation coming soon...**
