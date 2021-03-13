@@ -8,6 +8,7 @@ nav:
     - Home: index.md
     - Repos:
       - About Lumito's repos: repos/index.md
+      - NuGet Installer: repos/NuGetInstaller.md
       - OpenSSH for Windows: repos/OpenSSH-for-Windows.md
       - Program Overflow: repos/ProgramOverflow.md
 
