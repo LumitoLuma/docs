@@ -19,7 +19,7 @@ jobs:
           python-version: '3.9'
 
       - name: Publish docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        uses: mhausenblas/mkdocs-deploy-gh-pages@v1.16
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: docs.lumito.net
