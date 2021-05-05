@@ -8,9 +8,9 @@ An that is what *OpenSSH for Windows* does: installs a modern version of OpenSSH
 
 However, this is not the latest version of the product, because I have used a portable compiled version from [PowerShell's GitHub](https://github.com/PowerShell).
 
-## Installation instructions
+## Downloads
 
-### Latest OpenSSH version: 8.2p1
+### Latest OpenSSH version: 8.6p1
 
 You can download the latest version of OpenSSH for Windows by clicking on the button with your Windows architecture (modern PCs use x64).
 
