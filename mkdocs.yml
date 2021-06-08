@@ -16,7 +16,6 @@ theme:
   name: material
   icon:
     logo: material/code-tags
-    repo: fontawesome/brands/github
   favicon: assets/images/favicon.png
   palette:
     scheme: slate
