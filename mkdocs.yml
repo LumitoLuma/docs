@@ -1,5 +1,5 @@
 site_name: Lumito's documentation
-site_description: (WIP) Lumito's programs and services documentation
+site_description: Lumito's programs and services documentation
 site_author: Lumito
 docs_dir: docs
 repo_url: https://github.com/LumitoLuma/docs
@@ -12,6 +12,9 @@ nav:
       - NuGet Installer: repos/NuGetInstaller.md
       - OpenSSH for Windows: repos/OpenSSH-for-Windows.md
       - Program Overflow: repos/ProgramOverflow.md
+    - Tutorials:
+      - About Lumito's tutorials: tutorials/index.md
+      - How to install Proton: tutorials/Proton-Install.md
 
 theme:
   name: material
