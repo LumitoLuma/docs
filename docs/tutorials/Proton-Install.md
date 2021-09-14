@@ -3,7 +3,7 @@
 Proton release notes are available at [www.lumito.net/blog](https://www.lumito.net/blog/).
 
 ## Requiremets
-- Latest Proton build (you can get it from [here](https://dl.lumito.net/?dir=public/projects/Proton) (dl.lumito.net) or from [this link](https://ipfs.lumito.net/downloads/Proton) (ipfs.lumito.net) instead.
+- Latest Proton build (you can get it from [here](https://dl.lumito.net/?dir=public/projects/Proton) (dl.lumito.net), or from [this link](https://ipfs.lumito.net/downloads/Proton) (ipfs.lumito.net). High-speed links are available through my website to registered users only (drive.google.com).
 
 #### For scratch install only:
 - [This](https://dl.lumito.net/public/projects/Proton/tools/proton) bash script
