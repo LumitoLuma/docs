@@ -8,6 +8,7 @@ Proton release notes are available at [www.lumito.net/blog](https://www.lumito.n
 #### For scratch install only:
 - [This](https://dl.lumito.net/public/projects/Proton/tools/proton) bash script
 - Root (sudo) access
+- Python 3
 - At least 3.5 GB of disk space
 - Basic Linux terminal knowledge (cd, ls, apt, sudo, tar, etc.)
 - And a large cup of coffee (this will take some time)
